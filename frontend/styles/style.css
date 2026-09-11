@@ -1,9 +1,27 @@
 .card {
     background-color: gainsboro;
     padding: 5px;
+    border: 2px black solid;
 }
 
 .card-body {
     background-color: rgb(255, 255, 255);
     margin: 10px;
+    border-radius: 3px;
+}
+
+.card-title {
+    text-transform: capitalize;
+}
+
+.btn {
+    background-color: red;
+}
+
+.btn:hover {
+    background-color: rgb(252, 71, 71);
+}
+
+.btn:active {
+    background-color: red !important;
 }
