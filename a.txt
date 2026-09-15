@@ -1,0 +1,17 @@
+Algumas coisas a serem feitas:
+
+- decorar melhor (engloba muita coisa)
+- capitalizar nomes e tipos
+- organizar a forma que aparece a pokedex
+- colocar alguns try / catch (tratamento de erro no geral)
+- efeitos hover ou algo responsivo
+
+Coisas que TALVEZ possam ser feitas:
+
+- filtrar por algum critério
+- páginas
+
+
+Por fora:
+
+- entender melhor algumas partes
